@@ -1,1 +1,1 @@
-# myproject
+##### Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
